@@ -112,7 +112,7 @@ Each record represents a country with several features:
 ### 💫 Connect with Me
 
 📧 Email: veradeborav@gmail.com
-💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/vera-debora-vitamas/)  
+💼 LinkedIn: [linkedin.com/in/vera-debora-vitamas](https://www.linkedin.com/in/vera-debora-vitamas/)  
 💻 Portfolio: 
 
 ---
